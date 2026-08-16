@@ -20,3 +20,14 @@ Put them together:
 
 The quote rule says: you may only answer if you can point to proof.
 The "I don't know" rule says: and if you can't point to proof, here's what to say instead.
+
+---
+
+Reflect — closed vs. open
+You just ran both. In a sentence or two each:
+
+Closed (OpenAI): what was easy? what did it cost you (money, data leaving your machine, rate limits)?
+Open (local HF): what did you gain (privacy, no per-call cost, control)? what did you pay in (speed, quality, setup, RAM)?
+
+closed was way faster, gave better answers, but costed money, api calls.
+open was slow, but gave more privacy, undependecy. ( i heard the harware putting effort)
